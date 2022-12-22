@@ -1,0 +1,25 @@
+/*
+global style remve goes here
+*/
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+img {
+  width: 100%;
+}
+
+div.illuatration {
+  
+}
+
+section.intro {
+  text-align: center;
+}
+
+section.intro button {
+  
+}
